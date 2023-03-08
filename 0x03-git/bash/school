@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 #!/bin/bash\
-echo "ALX school is so cool!"
+"ALX school is so cool!"
 =======
 #!/bash/alx\
-echo "The school is open"
+"The school is open"
 >>>>>>> origin/update_script
